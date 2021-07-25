@@ -13,3 +13,4 @@ Wanna know what I am working on!???
 - 😄 Pronouns:
 - ⚡ Fun fact: Still discovering
 
+<img src="https://github-readme-stats.vercel.app/api?username=RohhanGupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
