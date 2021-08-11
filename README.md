@@ -14,7 +14,7 @@ I am not famous - ![Profile views](https://gpvc.arturio.dev/RohhanGupta)
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Business and Finance
 - 📫 How to reach me: Twitter- [@RohannGuptaa](https://twitter.com/RohannGuptaa), LinkedIn- [Rohan Gupta](https://www.linkedin.com/in/rohanguptaa/), Instagram- [@rohh_gh](https://www.instagram.com/rohh_gh/)
-- 😄 Pronouns:
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Still discovering
 
 ## 😎 Few Stats about my profile:
