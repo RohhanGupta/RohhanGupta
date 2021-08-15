@@ -2,7 +2,7 @@
 
 ### <h1 align="center">Hi I'm Rohan 👋</h1>
 
-I am Rohan, Currently a sophomore at Thapar Institute of Engineering and Technology. I am a backend developer with Django and Android Developer in Flutter. Besides technical stuff i am also into business development, finance and startups.
+<p align="center">I am Rohan, Currently a sophomore at Thapar Institute of Engineering and Technology. I am a backend developer with Django and Android Developer in Flutter. Besides technical stuff i am also into business development, finance and startups.</p>
 
 I am not famous - ![Profile views](https://gpvc.arturio.dev/RohhanGupta)  
 
