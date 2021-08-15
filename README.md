@@ -44,9 +44,9 @@ I am not famous - ![Profile views](https://gpvc.arturio.dev/RohhanGupta)
 ## 💼 If ever you want to reach out to me:
   
 <p align="left">
-<a href="https://twitter.com/RohannGuptaa" target="blank"><img align="center" src="./logos/twitter_coloured.png" alt="uzumakidarshan" height="40"/>	&nbsp;</a>
-<a href="https://www.linkedin.com/in/rohanguptaa/" target="blank"><img align="center" src="./logos/linkedin_coloured.png" alt="-darshanpatel" height="40"/>	&nbsp;</a>
-<a href="https://www.instagram.com/rohh_gh/" target="blank"><img align="center" src="./logos/instagram_coloured.png" alt="darshan_patel01" height="40"/>	&nbsp;</a>
+<a href="https://twitter.com/RohannGuptaa" target="blank"><img align="center" src="./logos/twitter_coloured.png" alt="@RohannGupta" height="40"/>	&nbsp;</a>
+<a href="https://www.linkedin.com/in/rohanguptaa/" target="blank"><img align="center" src="./logos/linkedin_coloured.png" alt="-@Rohan Gupta" height="40"/>	&nbsp;</a>
+<a href="https://www.instagram.com/rohh_gh/" target="blank"><img align="center" src="./logos/instagram_coloured.png" alt="rohh_gh" height="40"/>	&nbsp;</a>
 </p>
 
 
