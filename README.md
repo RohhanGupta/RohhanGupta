@@ -42,5 +42,18 @@ I am not famous - ![Profile views](https://gpvc.arturio.dev/RohhanGupta)
 [![trophy](https://github-profile-trophy.vercel.app/?username=RohhanGupta)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## 💼 If ever you want to reach out to me:
+  
+<p align="left">
+<a href="https://twitter.com/RohannGuptaa" target="blank"><img align="center" src="./logos/twitter_coloured.png" alt="uzumakidarshan" height="40"/>	&nbsp;</a>
+<a href="https://www.linkedin.com/in/rohanguptaa/" target="blank"><img align="center" src="./logos/linkedin_coloured.png" alt="-darshanpatel" height="40"/>	&nbsp;</a>
+<a href="https://www.instagram.com/rohh_gh/" target="blank"><img align="center" src="./logos/instagram_coloured.png" alt="darshan_patel01" height="40"/>	&nbsp;</a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RohhanGupta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rohanguptaa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rohh_gh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RohannGuptaa)
+
+<p align="center">
+    :arrow_down: Scroll down to see my top repositories :arrow_down:
+    <br>
+    <b>
+      Show some ❤️ by starring some of the repositories!
+    </b>
+</p>
