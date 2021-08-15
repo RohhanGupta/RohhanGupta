@@ -40,9 +40,8 @@ I am not famous - ![Profile views](https://gpvc.arturio.dev/RohhanGupta)
 
 ## ✨My GitHub milestones:
 [![trophy](https://github-profile-trophy.vercel.app/?username=RohhanGupta)](https://github.com/ryo-ma/github-profile-trophy)
-  
-## 💼 If ever you want to reach out to me:
-  
+
+<h3 align="left">💼 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RohannGuptaa" target="blank"><img align="center" src="./logos/twitter_coloured.png" alt="@RohannGupta" height="40"/>	&nbsp;</a>
 <a href="https://www.linkedin.com/in/rohanguptaa/" target="blank"><img align="center" src="./logos/linkedin_coloured.png" alt="-@Rohan Gupta" height="40"/>	&nbsp;</a>
