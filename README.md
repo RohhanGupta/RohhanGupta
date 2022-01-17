@@ -9,10 +9,10 @@ I am not famous - ![Profile views](https://gpvc.arturio.dev/RohhanGupta)
 ## 📒 Wanna Know what I am currently working on!?:
 
 - 🔭 I’m currently working on DSA in JAVA
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Flutter
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Django, Flask, Flutter
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about Business and Finance
+- 💬 Talk to me about Business Finance and Marketing
 - 📫 How to reach me: Twitter- [@RohannGuptaa](https://twitter.com/RohannGuptaa), LinkedIn- [Rohan Gupta](https://www.linkedin.com/in/rohanguptaa/), Instagram- [@rohh_gh](https://www.instagram.com/rohh_gh/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Still discovering
